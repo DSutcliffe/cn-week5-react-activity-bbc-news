@@ -1,0 +1,31 @@
+body {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+}
+
+hr {
+  width: 80%;
+  height: 0;
+  border-bottom: 2px;
+}
+
+.longReadsBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+.newsbeatBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+img, h5 {
+  width: 260px;
+  margin: 0;
+}
+
